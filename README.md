@@ -11,4 +11,4 @@ Please download the following Python liberaries
 
 Download them using Command Prompt
 
-pip install </lib>
+pip install <lib>
